@@ -31,12 +31,7 @@
 
     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/9d11f1d3-bb75-414b-b0f3-e5a97fdacedb"/>
     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/3ce54420-66d6-4146-91ee-91bf6f4c8c7b"/>
-    <img src="
-    
-
-    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+    <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/a2c36a86-1543-4d9e-bc3f-2c38b4077a4d"/>)
 
 -----
 
