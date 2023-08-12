@@ -12,7 +12,7 @@
 
 - 🔭 I’m a Ph.D. Scholar at MAHE, India
 - 🌱 Currently working on hearing aid signal processing and spatial hearing experiments
-- 📫 How to reach me: Contact part
+- 📫 How to reach me: Contact part.
 
 <br>
 
