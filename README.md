@@ -23,7 +23,8 @@
 - **Languages**:
     
      <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
-     <img src="https://icons8.com/icon/r5Y16PcDkoWI/matlab.png" width='40' height='40' />
+     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/3fc1a44d-4840-4b7b-aa79-85330e24bb48)" width='40' height='40' />
+
 
 - **Softwares and Tools**:
 
