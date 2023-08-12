@@ -24,7 +24,7 @@
     
      <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/9d11f1d3-bb75-414b-b0f3-e5a97fdacedb" />
      <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/2d868cd0-31fe-413a-bad3-43c7f0c0b0a6"/>
-     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/1cf4b1d3-705b-4623-a4ab-845be47b441a:/>
+     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/1cf4b1d3-705b-4623-a4ab-845be47b441a"/>
 
 
 - **Softwares and Tools**:
