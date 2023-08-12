@@ -23,7 +23,7 @@
 - **Languages**:
     
      <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
-     <img src="[https://github.com/SATHish64103/SATHish64103/assets/72660874/fd2d5b16-c220-4dc5-a7c2-0757a79d8e75" />
+     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/fd2d5b16-c220-4dc5-a7c2-0757a79d8e75" />
 
 
 - **Softwares and Tools**:
