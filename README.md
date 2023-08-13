@@ -31,8 +31,10 @@
 - **Softwares and Tools**:
 
     <img src="https://img.icons8.com/plasticine/400/matlab.png" width="40"/>
-    <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/3ce54420-66d6-4146-91ee-91bf6f4c8c7b"/>
+    <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/b4c2c510-fc9f-47b4-97e3-1e02597eabfc" width="40"/>
+    <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/9b244005-f73c-465f-983e-965dbb81430c" width="40"/>
     <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="40"/>
+
 
 -----
 
