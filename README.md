@@ -22,14 +22,14 @@
 
 - **Programming Languages**:
     
-     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/9d11f1d3-bb75-414b-b0f3-e5a97fdacedb" />
+     <img src="https://img.icons8.com/plasticine/400/matlab.png" width="40"/>
      <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/2d868cd0-31fe-413a-bad3-43c7f0c0b0a6"/>
      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"/>
 
 
 - **Softwares and Tools**:
 
-    <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/9d11f1d3-bb75-414b-b0f3-e5a97fdacedb"/>
+    <img src="https://img.icons8.com/plasticine/400/matlab.png" width="40"/>
     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/3ce54420-66d6-4146-91ee-91bf6f4c8c7b"/>
     <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="40"/>
 
@@ -42,11 +42,11 @@
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sathish-kumar-0815121a9/">
 		<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"></a>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.researchgate.net/profile/Sathish-Kumar-163/">
-		<img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/9df493d3-bb2a-4b50-8bc5-421dde715559" width="40"></a>
+		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" width="40"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/SATHish64103">
 		<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"></a>
 	<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-		<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+		<img src="https://img.icons8.com/stickers/100/contract-job.png" width="40"></a>
       </div>
 
 </p>
