@@ -12,7 +12,7 @@
 
 - 🔭 I’m a Ph.D. Scholar at MAHE, India
 - 🌱 Currently working on hearing aid signal processing and spatial hearing experiments
-- 📫 How to reach me: Contact part
+- 📫 How to reach me **sathish.sreeni58@gmail.com**
 
 <br>
 
@@ -40,11 +40,11 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sathish-kumar-0815121a9/">
-			<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"></a>
+		<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/SATHish64103">
 		<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"></a>
 	<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+		<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 </p>
