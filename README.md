@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 A Ph.D. Scholar at [Manipal Academy of Higher Education, India](https://manipal.edu/mu.html).
+- 🔭 A Ph.D. Scholar at [Manipal Academy of Higher Education, India](https://manipal.edu/mu.html)
 - 🌱 Currently working on hearing aid signal processing and spatial hearing experiments
 - 📫 How to reach me **sathish.sreeni58@gmail.com**
 
