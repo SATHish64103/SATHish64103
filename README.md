@@ -28,7 +28,7 @@
      
 
 
-- **Softwares and Tools**:
+- **Tools I use**:
 
     <img src="https://img.icons8.com/plasticine/400/matlab.png" width="40"/>
     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/b4c2c510-fc9f-47b4-97e3-1e02597eabfc" width="40"/>
