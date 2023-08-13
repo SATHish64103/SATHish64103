@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/SATHish64103/SATHish64103/assets/72660874/9cf13125-bfb0-4574-a9e1-c03d8b96eb40" width =40px></picture> **About me**
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Interest-Spatial%20Hearing-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
