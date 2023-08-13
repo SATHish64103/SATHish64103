@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Sathish" alt="Typing SVG" /></a>
 </p>
 
-## <picture><img src = "https://github.com/SATHish64103/SATHish64103/assets/72660874/f12449cd-0bb7-44dc-89ae3a410e757d8d" width =80px></picture> **About me**
+## <picture><img src = "https://github.com/SATHish64103/SATHish64103/assets/72660874/9cf13125-bfb0-4574-a9e1-c03d8b96eb40" width =80px></picture> **About me**
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
