@@ -41,7 +41,7 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a target="_blank" href="https://www.linkedin.com/in/sathish-kumar-0815121a9/">
-	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+	<img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/36a88134-73e5-4b52-a329-7d4a2e9dd959" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
            <a style="margin-left: 10px;" target="_blank" href="https://">
