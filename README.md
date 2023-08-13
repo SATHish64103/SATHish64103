@@ -24,14 +24,14 @@
     
      <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/9d11f1d3-bb75-414b-b0f3-e5a97fdacedb" />
      <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/2d868cd0-31fe-413a-bad3-43c7f0c0b0a6"/>
-     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/1cf4b1d3-705b-4623-a4ab-845be47b441a"/>
+     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"/>
 
 
 - **Softwares and Tools**:
 
     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/9d11f1d3-bb75-414b-b0f3-e5a97fdacedb"/>
     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/3ce54420-66d6-4146-91ee-91bf6f4c8c7b"/>
-    <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/a2c36a86-1543-4d9e-bc3f-2c38b4077a4d"/>
+    <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="40"/>
 
 -----
 
