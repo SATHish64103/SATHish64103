@@ -38,24 +38,17 @@
 <h3 align="center" >Connect with me 🤝 </h3>
 
 <p align="center">
-https://github.com/SATHish64103/SATHish64103/assets/72660874/6ecf2623-2cd5-4fc6-baeb-1a61e5ccf867
-
-
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a target="_blank" href="https://www.linkedin.com/in/sathish-kumar-0815121a9/">
 	<img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/36a88134-73e5-4b52-a329-7d4a2e9dd959" style="margin-left: 10px;" ></a>
-	 
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/SATHish64103">
-	<img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/9c64d838-bce2-4ec0-a1c5-553d611651e3"></a>
- 
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/SATHish64103">
-	<img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/6ecf2623-2cd5-4fc6-baeb-1a61e5ccf867" style=" width:35px; height:43px;"></a>
- 
-	<a style="margin-left: 5px;" target="_blank" href="">
-	<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
+ <a style="margin-left: 10px;" target="_blank" href="https://github.com/SATHish64103">
+ <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/9c64d838-bce2-4ec0-a1c5-553d611651e3"></a>
+ <a style="margin-left: 10px;" target="_blank" a href="mailto:sathish.sreeni58@gmail.com">
+ <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/6ecf2623-2cd5-4fc6-baeb-1a61e5ccf867" style=" width:35px; height:43px;"></a>
+ <a style="margin-left: 5px;" target="_blank" href="">
+ <img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
       </div>
-
 </p>
 
 
