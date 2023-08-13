@@ -23,8 +23,9 @@
 - **Programming Languages**:
     
      <img src="https://img.icons8.com/plasticine/400/matlab.png" width="40"/>
-     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/2d868cd0-31fe-413a-bad3-43c7f0c0b0a6"/>
+     <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/8ba21937-629a-4ca0-acbd-bc4f77105e3f" width="40"/>
      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"/>
+     
 
 
 - **Softwares and Tools**:
