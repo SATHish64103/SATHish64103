@@ -6,7 +6,7 @@
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
-  <img src="https://img.shields.io/badge/Intrest-Spatial%20Hearing-dodgerblue" />
+  <img src="https://img.shields.io/badge/Interest-Spatial%20Hearing-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Programming Languages**:
     
      <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/9d11f1d3-bb75-414b-b0f3-e5a97fdacedb" />
      <img src="https://github.com/SATHish64103/SATHish64103/assets/72660874/2d868cd0-31fe-413a-bad3-43c7f0c0b0a6"/>
