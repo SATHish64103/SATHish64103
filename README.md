@@ -49,7 +49,7 @@
 		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" width="40"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/SATHish64103">
 		<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"></a>
-	<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+	<a style="margin-left: 5px;" target="_blank" href="https://github.com/SATHish64103/SATHish64103/files/12385898/CV.pdf">
 		<img src="https://img.icons8.com/stickers/100/contract-job.png" width="40"></a>
       </div>
 
